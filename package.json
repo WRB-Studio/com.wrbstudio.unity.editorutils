@@ -1,0 +1,12 @@
+{
+  "name": "com.wrbstudio.unity.editorutils",
+  "version": "1.0.0",
+  "displayName": "WRB Editor Utils",
+  "description": "Useful modular Unity editor tools by WRB Studio.",
+  "unity": "2021.3",
+  "author": {
+    "name": "WRB Studio",
+    "url": "https://github.com/WRB-Studio"
+  },
+  "type": "tools"
+}
