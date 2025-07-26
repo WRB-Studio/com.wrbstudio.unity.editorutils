@@ -1,4 +1,4 @@
-﻿# WRB Editor Utils
+﻿# WRB Unity Editor Utils
 
 **Unity Editor Tools Collection**  
 📦 `com.wrbstudio.unity.editorutils`  
