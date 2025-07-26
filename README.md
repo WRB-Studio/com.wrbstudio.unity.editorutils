@@ -44,3 +44,11 @@ A modular collection of useful tools for Unity Editor workflows.
 → Unity will create prefabs and organize assets accordingly.
 
 ---
+
+
+##TODO:
+
+- collider only if mesh exist
+- checkbox for add collider to childs
+
+---
